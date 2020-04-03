@@ -21,6 +21,8 @@ p {
   height: auto;
   font-family: Helvetica;
   color: white;
+  position: relative;
+  top: 20px;
 }
 
 /* Simple Responsive Framework. */
@@ -136,7 +138,7 @@ h1 {
 
 #bg {
   width: auto;
-  height: 190px;
+  height: 195px;
   background-color: grey;
   padding: 5px;
   border: 1px solid white;
